@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c-sanders88
-- 👀 I’m interested in ... A carrer in Web Development and Learning To Code Efectivly on a High Scale Level  !
+- 👀 I’m interested in ... A carrer in Web Development and Learning To Code Effectively on a High Scale Level  !
 - 🌱 I’m currently learning ... I am currently learning to code through the Devslope Academy , Currently Educated in Html and Css Focused on Learning Git and Java
 - 💞️ I’m looking to collaborate on ... Html/Css Projects Including Responsive Web Pages . 
 - 📫 How to reach me ... You can reach me at | cameronsanders2188@gmail.com |
